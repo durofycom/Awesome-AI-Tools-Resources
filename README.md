@@ -232,8 +232,9 @@ Star this repo if you find it useful ⭐
 
 <details> 
 <summary> <h2>📚 Design Tool </h2> </summary>
-|[**Durofy**](https://durofy.com/)|Free AI magazine cover generator. Upload a photo, pick a style, get a magazine cover. First 3 covers free, no signup.|
 
+
+|[**Durofy**](https://durofy.com/)|Free AI magazine cover generator. Upload a photo, pick a style, get a magazine cover. First 3 covers free, no signup.|
 
 | Title/Link | Description |
 |---|---|
