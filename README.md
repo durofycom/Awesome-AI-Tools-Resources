@@ -232,8 +232,9 @@ Star this repo if you find it useful ⭐
 
 <details> 
 <summary> <h2>📚 Design Tool </h2> </summary>
-
 |[**Durofy**](https://durofy.com/)|Free AI magazine cover generator. Upload a photo, pick a style, get a magazine cover. First 3 covers free, no signup.|
+
+
 | Title/Link | Description |
 |---|---|
 | [**✅Canava Magic Studio**](https://www.canva.com/magic/?msockid=2542a2661bba61a702b4b7c51a616059) | Canva's AI suite (Magic Write, Magic Design, Magic Edit…)|
